@@ -15,7 +15,7 @@
     "@react-navigation/drawer": "^5.0.7",
     "async-storage": "^0.1.0",
     "formik": "^2.1.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.5.3",
     "mongodb-stitch-react-native-sdk": "^4.8.0",
     "react": "16.9.0",
